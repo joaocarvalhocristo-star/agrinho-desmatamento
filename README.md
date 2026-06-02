@@ -40,7 +40,7 @@ O programa Agrinho nos ensina que a resposta está nas **ações locais com impa
 ---
 
 ## 👥 Integrantes do Projeto
-* **Aluno(a):** JOão Victor De Carvalho De Cristo
+* **Aluno(a):** João Victor De Carvalho De Cristo
 * **Escola:** Colégio integral Rui Barbosa
 * **Série/Ano:** 1º serie A
 * **Professor(a) Orientador(a):** Giacomo
