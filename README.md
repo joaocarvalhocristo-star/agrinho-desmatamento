@@ -40,10 +40,10 @@ O programa Agrinho nos ensina que a resposta está nas **ações locais com impa
 ---
 
 ## 👥 Integrantes do Projeto
-* **Aluno(a):** Seu Nome Seu Sobrenome
-* **Escola:** Nome da Sua Escola
-* **Série/Ano:** Seu Ano Escolar
-* **Professor(a) Orientador(a):** Nome do(a) Professor(a)
+* **Aluno(a):** JOão Victor De Carvalho De Cristo
+* **Escola:** Colégio integral Rui Barbosa
+* **Série/Ano:** 1º serie A
+* **Professor(a) Orientador(a):** Giacomo
 
 ---
 *Projeto desenvolvido para o Concurso Agrinho.*
